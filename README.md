@@ -4,6 +4,8 @@ Discrete Fourier transform for Fast Multiplication in SystemVerilog - May 2016
 
 Submitted as a special project assignment as part of CMPE 297 Special Topics -- Cryptographic Application-Specific Hardware 
 
+CMPE 297 Special Topics Course on: Application-Specific Hardware Design for computer arithmetic as applied in cryptography, coding, and digital signal processing. Micro-code driven state-machine and its application in cryptography.
+
 
 Team: Saar Sagir and Samira C. Oliva Madrigal
 
