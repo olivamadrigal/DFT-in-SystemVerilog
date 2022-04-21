@@ -35,7 +35,7 @@ For our example, result had  3.45 error, (expected - actual) / expected, based o
 
 References: 
 
-[1] https://inst.eecs.berkeley.edu/~cs170/fa07/handouts/cs170F FT.pdf
+[1] https://inst.eecs.berkeley.edu/~cs170/fa07/handouts/cs170FFT.pdf
 
 [2] Algorithms by Dasgupta, Papadimitriou & Vazirani
 
@@ -43,6 +43,6 @@ References:
 
 [4] http://www.pi314.net/eng/multipli_fft.php
 
-[5] http://calculator.vhex.net/calculator/fast-fourier- transform-calculator-fft/1d-discrete-fourier-transform
+[5] http://calculator.vhex.net/calculator/fast-fourier-transform-calculator-fft/1d-discrete-fourier-transform
 
-[6] http://scistatcalc.blogspot.com/2013/12/fft- calculator.html
+[6] http://scistatcalc.blogspot.com/2013/12/fft-calculator.html
